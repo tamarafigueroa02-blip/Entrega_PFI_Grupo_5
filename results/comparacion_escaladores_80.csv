@@ -1,0 +1,3 @@
+escalador,silhouette,davies_bouldin
+StandardScaler,0.373,0.916
+RobustScaler,0.347,0.984

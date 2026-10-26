@@ -1,0 +1,5 @@
+segmento,clientes,abandonan,churn_observado,elegidos_20pct,aciertos_modelo,acierto_modelo,aciertos_azar_esperados,acierto_azar,veces_mejor_que_azar
+VIP,108,11,0.1019,22,6,0.2727,2.2407,0.1019,2.6777
+Leales,265,88,0.3321,53,28,0.5283,17.6,0.3321,1.5909
+Nuevos / bajo valor,209,124,0.5933,42,32,0.7619,24.9187,0.5933,1.2842
+En riesgo,283,212,0.7491,57,49,0.8596,42.6996,0.7491,1.1476

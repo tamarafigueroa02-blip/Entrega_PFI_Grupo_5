@@ -1,0 +1,7 @@
+paso,filas,clientes,% filas retenidas
+0. Dataset original,1067371,5942,100.0
+1. Sin duplicados,1033036,5942,96.8
+2. Con cliente identificado,797885,5942,74.8
+3. Sin cancelaciones ni ajustes,779495,5881,73.0
+4. Cantidad y precio > 0,779425,5878,73.0
+5. Solo productos,776596,5852,72.8

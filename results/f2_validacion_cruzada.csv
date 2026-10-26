@@ -1,0 +1,4 @@
+,ROC-AUC (CV),PR-AUC (CV),desvío de la PR-AUC entre folds
+Regla por Recencia,0.706,0.678,
+Regresión logística,0.768,0.733,0.006
+XGBoost,0.774,0.745,0.012

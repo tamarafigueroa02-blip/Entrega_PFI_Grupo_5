@@ -1,0 +1,4 @@
+,80 % (ajuste),20 % (prueba),diferencia (%),¿cumple ≤ 10 %?
+Silhouette,0.373,0.364,-2.579,Sí
+Inercia por cliente,0.768,0.811,5.579,Sí
+Davies-Bouldin,0.916,0.92,0.435,Sí

@@ -1,0 +1,5 @@
+método,muestra,silhouette,davies_bouldin,% de la variación explicada,segmento más grande (%),equilibrio de tamaños (0-1)
+K-Means (k = 4),80 % (ajuste),0.373,0.916,74.408,31.425,0.959
+K-Means (k = 4),20 % (prueba),0.364,0.92,74.288,31.561,0.965
+Quintiles RFM (reglas),80 % (ajuste),0.139,1.4,58.94,48.222,0.906
+Quintiles RFM (reglas),20 % (prueba),0.154,1.319,60.554,46.012,0.919

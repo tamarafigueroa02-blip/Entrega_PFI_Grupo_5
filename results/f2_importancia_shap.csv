@@ -1,0 +1,12 @@
+,importancia_shap,correlacion_valor_vs_empuje
+Monetario,0.3431,-0.3672
+Recencia,0.2766,0.8488
+Frecuencia,0.2605,-0.5583
+dias_entre_compras,0.2167,0.953
+variedad_productos,0.1017,-0.4789
+antiguedad_dias,0.0833,-0.0881
+ticket_promedio,0.0457,0.0023
+seg_leales,0.0111,0.8287
+seg_en_riesgo,0.0031,0.7732
+seg_nuevos_bajo_valor,0.002,0.0213
+pais_reino_unido,0.0006,0.0671

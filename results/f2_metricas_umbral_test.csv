@@ -1,0 +1,11 @@
+,valor
+umbral,0.5
+Recall,0.7379310344827587
+Precisión,0.6948051948051948
+F1,0.7157190635451505
+% de la cartera en la lista,0.5341040462427745
+tasa de churn observada (test),0.5028901734104047
+verdaderos positivos,321.0
+falsos positivos,141.0
+falsos negativos,114.0
+verdaderos negativos,289.0

@@ -1,0 +1,10 @@
+concepto,valor
+Meses de historia antes de la fecha de predicción,21.0
+Clientes con compra antes de la fecha de predicción,5224.0
+Clientes con compra en la ventana de 12 meses (población de estudio),4324.0
+Clientes inactivos (sin compra en la ventana),900.0
+% de inactivos sobre el total previo a la fecha de predicción,17.2
+Facturación de los inactivos (£),562914.0
+% de la facturación previa a la fecha de predicción,4.2
+Inactivos que compraron en sep-nov 2011,96.0
+% de los inactivos que volvieron,10.7

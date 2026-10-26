@@ -1,0 +1,4 @@
+,ROC-AUC,PR-AUC,captura al contactar al 10 %,captura al contactar al 20 %
+Regla por Recencia,0.719,0.682,0.143,0.285
+Regresión logística,0.777,0.735,0.159,0.31
+XGBoost,0.782,0.75,0.166,0.315

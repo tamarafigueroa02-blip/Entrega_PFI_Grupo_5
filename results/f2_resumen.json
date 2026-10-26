@@ -1,0 +1,60 @@
+{
+ "modelo_final": "XGBoost",
+ "umbral": 0.5,
+ "clientes_train": 3459,
+ "clientes_test": 865,
+ "churn_observado_total": 0.5030064754856615,
+ "churn_observado_test": 0.5028901734104047,
+ "test": {
+  "ROC-AUC": 0.782071638599305,
+  "PR-AUC": 0.7497944096086566,
+  "captura al contactar al 10 %": 0.16551724137931034,
+  "captura al contactar al 20 %": 0.31494252873563217
+ },
+ "test_baseline_lr": {
+  "ROC-AUC": 0.7773483025928897,
+  "PR-AUC": 0.7354734124232687,
+  "captura al contactar al 10 %": 0.15862068965517243,
+  "captura al contactar al 20 %": 0.3103448275862069
+ },
+ "test_regla_recencia": {
+  "ROC-AUC": 0.7185137663726275,
+  "PR-AUC": 0.6817730340016435,
+  "captura al contactar al 10 %": 0.1425287356321839,
+  "captura al contactar al 20 %": 0.2850574712643678
+ },
+ "en_umbral": {
+  "umbral": 0.5,
+  "Recall": 0.7379310344827587,
+  "Precisión": 0.6948051948051948,
+  "F1": 0.7157190635451505,
+  "% de la cartera en la lista": 0.5341040462427745,
+  "tasa de churn observada (test)": 0.5028901734104047,
+  "verdaderos positivos": 321.0,
+  "falsos positivos": 141.0,
+  "falsos negativos": 114.0,
+  "verdaderos negativos": 289.0
+ },
+ "dentro_de_segmento": {
+  "VIP": {
+   "elegidos_20pct": 22.0,
+   "aciertos_modelo": 6.0,
+   "veces_mejor_que_azar": 2.677685950413223
+  },
+  "Leales": {
+   "elegidos_20pct": 53.0,
+   "aciertos_modelo": 28.0,
+   "veces_mejor_que_azar": 1.590909090909091
+  },
+  "Nuevos / bajo valor": {
+   "elegidos_20pct": 42.0,
+   "aciertos_modelo": 32.0,
+   "veces_mejor_que_azar": 1.284178187403994
+  },
+  "En riesgo": {
+   "elegidos_20pct": 57.0,
+   "aciertos_modelo": 49.0,
+   "veces_mejor_que_azar": 1.1475504799735188
+  }
+ }
+}
